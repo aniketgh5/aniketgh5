@@ -1,7 +1,15 @@
 ## 👋 Hi there, I'm Aniket  
 
-Welcome to my GitHub profile!  
-✨  ✨ **`Aniket Ghosh`** is a ✨  ✨
+Welcome to my GitHub profile!
+✨  ✨ **`Aniket Ghosh`** ✨  ✨
+
+<!-- Banner / Header -->
+<h1 align="center">👨‍💻 Aniket | DevOps Engineer | Cloud | Automation 🚀</h1>
+
+<p align="center">
+  <em>"Build what matters. Automate what repeats. Stay curious."</em>
+</p>
+
 
 ---
 
@@ -9,7 +17,7 @@ Welcome to my GitHub profile!
 
 - 🛠️ **DevOps & Cloud Engineer** passionate about building scalable, automated systems.  
 - 🌐 Exploring the intersection of **DevOps**, **Cloud Architecture**, and **Automation**.  
-- 🐍 Skilled in **Python**, **Terraform**, **Docker**, **Kubernetes**, and **Azure DevOps**.  
+- 🐍 Skilled in **Azure**, **AWS**, **Terraform**, **Docker**, **Kubernetes**, **gO Scripting**, and **Shell Scripting**
 - ⚙️ Focused on creating **CI/CD pipelines**, **Infrastructure as Code (IaC)**, and **cloud-native deployments**.  
 - 💬 Open to collaborating on impactful projects that solve real-world problems.  
 - 🌌 “Automate what repeats. Learn what matters.”  
@@ -42,6 +50,9 @@ Welcome to my GitHub profile!
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)  
 ![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)  
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)  
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+
 
 #### 🧩 Version Control & Collaboration  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
