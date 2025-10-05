@@ -1,7 +1,7 @@
 ## 👋 Hi there, I'm Aniket  
 
 Welcome to my GitHub profile!  
-**`aniketgh5/aniketgh5`** is a ✨ special ✨ repository — its `README.md` appears directly on my profile.
+✨  ✨ **`Aniket Ghosh`** is a ✨  ✨
 
 ---
 
