@@ -1,10 +1,10 @@
 ## 👋 Hi there, I'm Aniket  
 
 Welcome to my GitHub profile!
-✨  ✨ **`Aniket Ghosh`** ✨  ✨
+✨  ✨ **** ✨  ✨
 
 <!-- Banner / Header -->
-<h1 align="center">👨‍💻 Aniket | DevOps Engineer | Cloud | Automation 🚀</h1>
+<h1 align="center">👨‍💻 DevOps Engineer | Cloud (Azure & AWS) | Terraform | CI/CD Pipelines | Docker | Kubernetes | Scripting 🚀</h1>
 
 <p align="center">
   <em>"Build what matters. Automate what repeats. Stay curious."</em>
