@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm Aniket  
+## 👋 Hi there, I'm Aniket Ghosh
 
 Welcome to my GitHub profile!
 ✨  ✨ **** ✨  ✨
